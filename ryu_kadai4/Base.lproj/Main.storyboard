@@ -46,7 +46,7 @@
                         <color key="backgroundColor" systemColor="systemBackgroundColor"/>
                     </view>
                     <connections>
-                        <outlet property="clear" destination="bZK-J2-KRG" id="rAV-wP-BJv"/>
+                        <outlet property="clearButton" destination="bZK-J2-KRG" id="rAV-wP-BJv"/>
                         <outlet property="countButton" destination="ihr-wp-lE8" id="k0u-SE-PCu"/>
                         <outlet property="countLabel" destination="03b-1Z-hal" id="gtM-Ls-Apd"/>
                     </connections>
